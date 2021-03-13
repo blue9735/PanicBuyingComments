@@ -1,2 +1,2 @@
-# PanicBuyingComments
-Data used in panic buying case studies
+# PanicBuyingPropagationModel
+Coding of panic buying propagation model and data of panic buying case studies
