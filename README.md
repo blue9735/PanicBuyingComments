@@ -1,2 +1,2 @@
 # PanicBuyingComments
-data of Panic Buying topic on Sina Weibo
+Data used in panic buying case studies
